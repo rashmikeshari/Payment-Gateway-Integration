@@ -4,8 +4,10 @@ I am glad to share that I have successfully completed my Task as a web developme
 Task- Payment Gateway Integration
 
 Website Link: https://helpingforcovid19.000webhostapp.com/
+
 Languages used- HTML, CSS, Javascript
-Objective- A simple website through which people can donate and help the people who very badly got effected from this COVID 
+Objective- A simple website through which people can donate and help India in fighting with COVID19.
 
+Github Link:https://github.com/rashmikeshari/Payment-Gateway-Integration
 
-Also, if you are interested to know more about the internship, do visit their website for updates:  https://lnkd.in/dQt88ZX
+If you are interested to know more about the internship, visit:  https://lnkd.in/dQt88ZX
